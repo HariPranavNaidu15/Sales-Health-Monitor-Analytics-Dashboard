@@ -14,7 +14,7 @@ This project simulates a real-world analytics workflow: a retail sales export (4
 
 ### Dataset Source
 
-Raw data: [Dataset name on Kaggle](PASTE_KAGGLE_URL_HERE) — License: `PASTE_LICENSE_HERE` (e.g. CC0: Public Domain)
+Raw data: https://www.kaggle.com/datasets/satyakidas07/retail-sales-dataset
 
 The raw dataset is not redistributed in this repo; download it directly from the link above to reproduce the pipeline from scratch. The cleaned output (`data/clean_sales.csv`) **is** included, since it reflects substantial original transformation work documented in Section 3 below.
 
